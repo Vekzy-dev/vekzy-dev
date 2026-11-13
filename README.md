@@ -1,11 +1,7 @@
 [ReadMe.md](https://github.com/user-attachments/files/34817694/ReadMe.md)
 # 💫About Me :
-Horzion rust on a web site
-Anything :D
-I can help with everything !
-A whatsapp ai bot
-You can ask me anything!
-i code for around 7 years now! 
+Hello, am vekzy. I am a young developer developing for around 7 years.
+My current project is making the horzion rust workable for the browser!
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/vekzyy) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Vekzyy) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/u/Glad_Bag_8218) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@vekzylarp) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/ItsVekzyy) 
